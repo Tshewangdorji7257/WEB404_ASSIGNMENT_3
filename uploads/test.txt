@@ -1,0 +1,2 @@
+Harmless file upload security test.
+This is plain text only. It contains no executable code.
