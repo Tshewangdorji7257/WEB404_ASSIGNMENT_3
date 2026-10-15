@@ -11,7 +11,6 @@
 7. [Comparison: Before and After Security](#7-comparison-before-and-after-security)
 8. [Limitations](#8-limitations)
 9. [Conclusion](#9-conclusion)
-10. [Appendix: Evidence Checklist](#appendix-evidence-checklist)
 
 ---
 
